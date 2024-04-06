@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Aucune donnée de l'utilisateur n'est stockée ni partagée</title>
+    <title>Securite des données de l'utilisateur</title>
 </head>
 <body>
-    <h1>Aucune donnée de l'utilisateur n'est stockée ni partagée</h1>
-    <p>Nous nous engageons à ne pas collecter, stocker ou partager les données personnelles des utilisateurs.</p>
+    <h1>Securite des données de l'utilisateur</h1>
+    <p>La sécurité des données des utilisateurs collectées n'est utilisée que dans le seul but de faire de la publicité. La seule donnée utilisée est l'identifiant publicitaire, qui est partagé avec le Facebook Audience Network. À part cela, aucune donnée de l'utilisateur n'est collectée. </p>
 </body>
 </html>
