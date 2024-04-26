@@ -1,4 +1,4 @@
-#Privacy Policy
+
 <!DOCTYPE html>
 <html>
 
