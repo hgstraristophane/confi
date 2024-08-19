@@ -31,7 +31,7 @@ The terms used in this privacy policy have the same meaning as in our terms and 
 <p>I may update our privacy policy from time to time. You are therefore advised to check this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page.
 This policy is in effect as of 19/08/2024
 </p>
-<h2>Contact products:</h2>
+<h2>products:</h2>
 <p>   Math-Educ,Version:12.0;
  <br> MathEXO,Version:1.0;</p>
 
