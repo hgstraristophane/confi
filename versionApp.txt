@@ -1,2 +1,2 @@
-Match-Educ,versin:12.0;
-MatchEXO,versin:1.0;
+Match-Educ,Version:12.0;
+MatchEXO,Version:1.0;
