@@ -37,7 +37,7 @@ This policy is in effect as of 19/08/2024
 </p>
 <h2>Contact products:</h2>
 <p>   Math-Educ,Version:12.0;
-  MathEXO,Version:1.0;</p>
+ <br> MathEXO,Version:1.0;</p>
 
 <h2>Contact us</h2>
 <p>
