@@ -15,11 +15,7 @@ The terms used in this privacy policy have the same meaning as in our terms and 
    
 
  <h2>Collection and use of information</h2>
-<p>For a better experience, while using our Service, I may ask you to provide us with certain personally identifiable information, including but not limited to Advertising ID, User Address login and information about registered applications. The information I request will be stored on your device and will not be collected by me in any way.
-My applications use third-party services that may collect information used to identify you (Facebook Audience Network ads).
-Link to the privacy policy of the third-party service providers used by the application:
-Google Play Services
-Facebook Audience Network ads.</p>
+<p>My applications use third-party services that may collect information used to identify you (Facebook Audience Network advertisements). Link to the privacy policy of the third-party service providers used by the application: Google Play Services, Facebook audience network advertisements.</p>
 
 
  <h2>Security</h2>
