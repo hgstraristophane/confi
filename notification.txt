@@ -5,3 +5,4 @@ notification1
  bonjour kuete.
  bonjour kuete.
  bonjour kuete.
+Texte ajouté automatiquement depuis l’app 
