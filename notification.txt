@@ -18,3 +18,14 @@ Texte ajouté automatiquement depuis l’app_service
 Texte ajouté automatiquement depuis l’app_service 
 
 Texte ajouté automatiquement depuis l’app_service 
+<payement> 
+<id_transaction>374272726451161<\id_transaction>
+<ddate>2025-06-30 12:30:45<\ddate>
+<somme>500<\somme>
+<\payement>
+
+<payement> 
+<id_transaction>0743272726451161<\id_transaction>
+<ddate>2025-16-30 12:30:45<\ddate>
+<somme>500<\somme>
+<\payement>
