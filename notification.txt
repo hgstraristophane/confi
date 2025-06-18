@@ -29,3 +29,11 @@ Texte ajouté automatiquement depuis l’app_service
 <ddate>2025-16-30 12:30:45<\ddate>
 <somme>500<\somme>
 <\payement>
+
+
+
+<payement> 
+<id_transaction>837427342726112<\id_transaction>
+<ddate>2025-06-30 14:35:45<\ddate>
+<somme>550<\somme>
+<\payement>
