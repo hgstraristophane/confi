@@ -1,0 +1,80 @@
+1-<QCM>
+<ENONCE>\\textbf{Entre deux plaques chargées \\\\
+d’électricité contraires et \\\\
+distantes de \\(50\\,\\text{cm}\\), règne \\\\
+un champ électrique uniforme \\\\
+de module \\(10\\,\\text{V/m}\\). La différence \\\\
+de potentiel entre ces deux \\\\
+plaques vaut :}<\\ENONCE>
+<REPONSE>1</REPONSE>
+<QCM1>\\textbf{5\\,V}</QCM1>
+<QCM2>\\textbf{5\\,kV}</QCM2>
+<QCM3>\\textbf{20\\,V}</QCM3>
+<QCM4>\\textbf{5\\,mV}</QCM4>
+<QCM5>\\textbf{20\\,kV}</QCM5>
+<QCM6></QCM6>
+<QCM7></QCM7>
+<QCM8></QCM8>
+<QCM9></QCM9>
+<QCM10></QCM10>
+</QCM>
+
+2-<QCM>
+<ENONCE>\\textbf{Une charge électrique \\\\
+ponctuelle négative crée \\\\
+dans l’espace environnant \\\\
+un champ :}</ENONCE>
+<REPONSE>3</REPONSE>
+<QCM1>\\textbf{Uniforme}</QCM1>
+<QCM2>\\textbf{Centrifuge}</QCM2>
+<QCM3>\\textbf{Centripète}</QCM3>
+<QCM4>\\textbf{Nul}</QCM4>
+<QCM5>\\textbf{Aucune réponse n’est juste}</QCM5>
+<QCM6></QCM6>
+<QCM7></QCM7>
+<QCM8></QCM8>
+<QCM9></QCM9>
+<QCM10></QCM10>
+</QCM>
+
+3-<QCM>
+<ENONCE>\\textbf{L’intensité de la force \\\\
+d’attraction entre deux solides \\\\
+de masses données est :}</ENONCE>
+<REPONSE>4</REPONSE>
+<QCM1>\\textbf{Proportionnelle au carré \\\\
+de la distance qui les sépare}</QCM1>
+<QCM2>\\textbf{Inversement proportionnelle \\\\
+à la distance qui les sépare}</QCM2>
+<QCM3>\\textbf{Inversement proportionnelle \\\\
+à la masse des corps}</QCM3>
+<QCM4>\\textbf{Inversement proportionnelle \\\\
+au carré de la distance \\\\
+qui les sépare}</QCM4>
+<QCM5>\\textbf{Aucune proposition n’est juste}</QCM5>
+<QCM6></QCM6>
+<QCM7></QCM7>
+<QCM8></QCM8>
+<QCM9></QCM9>
+<QCM10></QCM10>
+</QCM>
+
+4-<QCM>
+<ENONCE>\\textbf{Une bobine longue comportant \\\\
+20 spires par centimètre est \\\\
+parcourue par un courant \\\\
+d’intensité \\(250\\,\\text{mA}\\). L’intensité \\\\
+du champ magnétique au \\\\
+centre de cette bobine est :}</ENONCE>
+<REPONSE>5</REPONSE>
+<QCM1>\\textbf{\\(6{,}68 \\times 10^{-4}\\,\\text{mT}\\)}</QCM1>
+<QCM2>\\textbf{\\(6{,}68 \\times 10^{-3}\\,\\text{mT}\\)}</QCM2>
+<QCM3>\\textbf{\\(6{,}68 \\times 10^{-2}\\,\\text{mT}\\)}</QCM3>
+<QCM4>\\textbf{\\(6{,}68 \\times 10^{-7}\\,\\text{mT}\\)}</QCM4>
+<QCM5>\\textbf{Aucune réponse n’est juste}</QCM5>
+<QCM6></QCM6>
+<QCM7></QCM7>
+<QCM8></QCM8>
+<QCM9></QCM9>
+<QCM10></QCM10>
+</QCM>
