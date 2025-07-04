@@ -1,63 +1,143 @@
-1-<QCM>
-<ENONCE>\\textbf{Dans le plan complexe, \\\\
-l’ensemble des points \\(M\\) \\\\
-d’affixe \\(z = x + iy\\) tels que le \\\\
-nombre complexe \\(z + \\frac{4}{z}\\) \\\\
-soit un nombre réel est :}<\\ENONCE>
-<REPONSE>3<\\REPONSE>
-<QCM1>\\textbf{La droite d’équation \\(y = 0\\)}<\\QCM1>
-<QCM2>\\textbf{Un cercle d’équation \\\\
-cartésienne \\(x^2 + y^2 - 4 = 0\\)}<\\QCM2>
-<QCM3>\\textbf{Soit la droite d’équation \\\\
-\\(y = 0\\) ou le cercle d’équation \\\\
-\\(x^2 + y^2 - 4 = 0\\)}<\\QCM3>
-<QCM4>\\textbf{L’intersection de la droite \\\\
-\\(y = 0\\) et du cercle \\\\
-\\(x^2 + y^2 - 4 = 0\\)}<\\QCM4>
-<QCM5><\\QCM5>
-<QCM6><\\QCM6>
-<QCM7><\\QCM7>
-<QCM8><\\QCM8>
-<QCM9><\\QCM9>
-<QCM10><\\QCM10>
-<\\QCM>
+12-<QCM>
+<ENONCE>\textbf{Le moins inerte parmi \\
+les solides suivants est : \\
+Sphère pleine : $J = \frac{2}{5}MR^2$ \\
+Sphère creuse : $J = \frac{2}{3}MR^2$ \\
+Cylindre plein : $J = \frac{1}{2}MR^2$ \\
+Cylindre creux : $J = MR^2$}<\ENONCE>
+<REPONSE>3<\REPONSE>
+<QCM1>\textbf{La sphère pleine}<\QCM1>
+<QCM2>\textbf{La sphère creuse}<\QCM2>
+<QCM3>\textbf{Le cylindre plein}<\QCM3>
+<QCM4>\textbf{Le cylindre creux}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
 
-2-<QCM>
-<ENONCE>\\textbf{Soient \\(A, B, C\\) les points \\\\
-d’affixes respectives \\(a = 2 - i\\), \\\\
-\\(b = -1 + i\\), \\(c = 1 + 2i\\). Dans un \\\\
-repère orthogonal direct \\\\
-\\((O, \\vec{u}, \\vec{v})\\), le barycentre \\\\
-du système \\((A;1), (B;-1), (C;2)\\) \\\\
-a pour affixe :}<\\ENONCE>
-<REPONSE>2<\\REPONSE>
-<QCM1>\\textbf{\\(5 + 2i\\)}<\\QCM1>
-<QCM2>\\textbf{\\(2{,}5 + i\\)}<\\QCM2>
-<QCM3>\\textbf{\\(2 + i\\)}<\\QCM3>
-<QCM4>\\textbf{\\(1 + i\\)}<\\QCM4>
-<QCM5><\\QCM5>
-<QCM6><\\QCM6>
-<QCM7><\\QCM7>
-<QCM8><\\QCM8>
-<QCM9><\\QCM9>
-<QCM10><\\QCM10>
-<\\QCM>
+13-<QCM>
+<ENONCE>\textbf{Deux lentilles minces \\
+accolées de même focale $f$ \\
+sont équivalentes à une \\
+lentille unique de focale :}<\ENONCE>
+<REPONSE>1<\REPONSE>
+<QCM1>\textbf{$F = 2f$}<\QCM1>
+<QCM2>\textbf{$F = f$}<\QCM2>
+<QCM3>\textbf{$F = \frac{f}{2}$}<\QCM3>
+<QCM4>\textbf{$F = \sqrt{f}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
 
-3-<QCM>
-<ENONCE>\\textbf{L’ensemble des points \\\\
-\\(M\\) d’affixe \\(z = x + iy\\) vérifiant \\\\
-\\(\\arg(z) + \\arg(z - 1) = (2k + 1)\\frac{\\pi}{2}\\) \\\\
-avec \\(k \\in \\mathbb{Z}\\) est :}<\\ENONCE>
-<REPONSE>5<\\REPONSE>
-<QCM1>\\textbf{\\(y(2x + 1)\\)}<\\QCM1>
-<QCM2>\\textbf{\\(2x + 1 = 0\\)}<\\QCM2>
-<QCM3>\\textbf{\\((x + \\frac{1}{2})^2 - y^2 \\\\
-- \\frac{1}{4} = 0\\)}<\\QCM3>
-<QCM4>\\textbf{Aucune réponse n’est juste}<\\QCM4>
-<QCM5><\\QCM5>
-<QCM6><\\QCM6>
-<QCM7><\\QCM7>
-<QCM8><\\QCM8>
-<QCM9><\\QCM9>
-<QCM10><\\QCM10>
-<\\QCM>
+14-<QCM>
+<ENONCE>\textbf{La longueur d’onde \\
+des ondes FM $(88{-}108\,\text{MHz})$ \\
+est comprise entre :}<\ENONCE>
+<REPONSE>3<\REPONSE>
+<QCM1>\textbf{$0{,}4\,\mu\text{m}$ à $0{,}8\,\mu\text{m}$}<\QCM1>
+<QCM2>\textbf{$1{,}02\,\text{cm}$ à $3{,}22\,\text{cm}$}<\QCM2>
+<QCM3>\textbf{$42\,\text{cm}$ à $75\,\text{cm}$}<\QCM3>
+<QCM4>\textbf{$2{,}78\,\text{m}$ à $3{,}41\,\text{m}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
+
+15-<QCM>
+<ENONCE>\textbf{Un avion de $2{,}7$ tonnes \\
+vole à $720\,\text{km/h}$ dans un \\
+virage de rayon $800\,\text{m}$. \\
+La force résultante est :}<\ENONCE>
+<REPONSE>1<\REPONSE>
+<QCM1>\textbf{$1{,}35\times10^5\,\text{N}$}<\QCM1>
+<QCM2>\textbf{$2{,}425\times10^5\,\text{N}$}<\QCM2>
+<QCM3>\textbf{$1{,}75\times10^6\,\text{N}$}<\QCM3>
+<QCM4>\textbf{$6{,}75\times10^6\,\text{N}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
+
+16-<QCM>
+<ENONCE>\textbf{Une collision à \\
+$150\,\text{km/h}$ équivaut à une \\
+chute de hauteur :}<\ENONCE>
+<REPONSE>2<\REPONSE>
+<QCM1>\textbf{$18{,}6\,\text{m}$}<\QCM1>
+<QCM2>\textbf{$44{,}3\,\text{m}$}<\QCM2>
+<QCM3>\textbf{$68{,}6\,\text{m}$}<\QCM3>
+<QCM4>\textbf{$88{,}6\,\text{m}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
+
+17-<QCM>
+<ENONCE>\textbf{L’altitude d’une orbite \\
+géostationnaire est :}<\ENONCE>
+<REPONSE>3<\REPONSE>
+<QCM1>\textbf{$3{,}6\times10^3\,\text{m}$}<\QCM1>
+<QCM2>\textbf{$3{,}6\times10^5\,\text{m}$}<\QCM2>
+<QCM3>\textbf{$3{,}6\times10^7\,\text{m}$}<\QCM3>
+<QCM4>\textbf{$3{,}6\times10^9\,\text{m}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
+
+18-<QCM>
+<ENONCE>\textbf{L’énergie $W$ stockée \\
+par un condensateur de \\
+capacité $C$ sous tension $U$ \\
+est donnée par :}<\ENONCE>
+<REPONSE>2<\REPONSE>
+<QCM1>\textbf{$W = \frac{1}{2}CQ^2$}<\QCM1>
+<QCM2>\textbf{$W = \frac{1}{2}CU^2$}<\QCM2>
+<QCM3>\textbf{$W = \frac{1}{2}QU$}<\QCM3>
+<QCM4>\textbf{$W = \frac{1}{2}\frac{Q^2}{U}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
+
+19-<QCM>
+<ENONCE>\textbf{Un objet réel $A$ est à \\
+$20\,\text{cm}$ d’une lentille \\
+convergente de focale \\
+$10\,\text{cm}$. La distance $AA'$ \\
+entre l’objet et son image \\
+est :}<\ENONCE>
+<REPONSE>1<\REPONSE>
+<QCM1>\textbf{$0{,}4\,\text{m}$}<\QCM1>
+<QCM2>\textbf{$0{,}3\,\text{m}$}<\QCM2>
+<QCM3>\textbf{$0{,}6\,\text{m}$}<\QCM3>
+<QCM4>\textbf{$0{,}33\,\text{m}$}<\QCM4>
+<QCM5><\QCM5>
+<QCM6><\QCM6>
+<QCM7><\QCM7>
+<QCM8><\QCM8>
+<QCM9><\QCM9>
+<QCM10><\QCM10>
+<\QCM>
