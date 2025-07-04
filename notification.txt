@@ -1,5 +1,5 @@
 <url>
              <lien1><\lien1>#chagement QCM
              <lien2><\lien2># tous les autres operations
-             <lien3><\lien3># changement de direction endpoint pour chargement QCM   
+             <lien3>https://raw.githubusercontent.com/hgstraristophane/confi/refs/heads/main/epreuve1.txt<\lien3># changement de direction endpoint pour chargement QCM   
          <\url>
