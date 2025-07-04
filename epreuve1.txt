@@ -1,3 +1,5 @@
+<Nexamen>1<\Nexamen>
+<Nmatiere>2<\Nmatiere>
 12-<QCM>
 <ENONCE>\textbf{Le moins inerte parmi \\
 les solides suivants est : \\
