@@ -5,7 +5,7 @@
 <body>
     <h1>Math-Educ Privacy Policy</h1>
     <p>
-        "KUSA DEV has created the applications MathEduc, mergepdf,qrcode generator and MathEXO as advertising-funded applications. This SERVICE is provided free of charge by KUSA DEV and is intended to be used as is.
+        "KUSA DEV has created the applications MathEduc, mergepdf, qrcode generator and MathEXO as advertising-funded applications. This SERVICE is provided free of charge by KUSA DEV and is intended to be used as is.
 
 This page is used to inform visitors of my policies regarding the collection, use, and disclosure of personal information if anyone decides to use my service.</p>
 
