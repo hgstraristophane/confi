@@ -29,7 +29,7 @@ The terms used in this privacy policy have the same meaning as in our terms and 
 
 <h2>Changes to this privacy policy</h2>
 <p>I may update our privacy policy from time to time. You are therefore advised to check this page periodically for any changes. I will notify you of any changes by posting the new privacy policy on this page.
-This policy is in effect as of 04/09/2024
+This policy is in effect as of 30/09/2025
 </p>
 
 
