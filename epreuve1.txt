@@ -1,145 +1,41 @@
-<Nexamen>1<\Nexamen>
-<Nmatiere>2<\Nmatiere>
-12-<QCM>
-<ENONCE>\textbf{Le moins inerte parmi \\
-les solides suivants est : \\
-Sphère pleine : $J = \frac{2}{5}MR^2$ \\
-Sphère creuse : $J = \frac{2}{3}MR^2$ \\
-Cylindre plein : $J = \frac{1}{2}MR^2$ \\
-Cylindre creux : $J = MR^2$}<\ENONCE>
-<REPONSE>3<\REPONSE>
-<QCM1>\textbf{La sphère pleine}<\QCM1>
-<QCM2>\textbf{La sphère creuse}<\QCM2>
-<QCM3>\textbf{Le cylindre plein}<\QCM3>
-<QCM4>\textbf{Le cylindre creux}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+\documentclass[12pt]{letter}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\geometry{margin=2.5cm}
 
-13-<QCM>
-<ENONCE>\textbf{Deux lentilles minces \\
-accolées de même focale $f$ \\
-sont équivalentes à une \\
-lentille unique de focale :}<\ENONCE>
-<REPONSE>1<\REPONSE>
-<QCM1>\textbf{$F = 2f$}<\QCM1>
-<QCM2>\textbf{$F = f$}<\QCM2>
-<QCM3>\textbf{$F = \frac{f}{2}$}<\QCM3>
-<QCM4>\textbf{$F = \sqrt{f}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+\signature{KUETE SONGMENE ARISTOPHANE}
+\address{KUETE SONGMENE ARISTOPHANE\\
+TEL: +237 654 41 61 07 / +237 652 84 16 18\\
+Email: kuetearistophane@gmail.com}
 
-14-<QCM>
-<ENONCE>\textbf{La longueur d’onde \\
-des ondes FM $(88{-}108\,\text{MHz})$ \\
-est comprise entre :}<\ENONCE>
-<REPONSE>3<\REPONSE>
-<QCM1>\textbf{$0{,}4\,\mu\text{m}$ à $0{,}8\,\mu\text{m}$}<\QCM1>
-<QCM2>\textbf{$1{,}02\,\text{cm}$ à $3{,}22\,\text{cm}$}<\QCM2>
-<QCM3>\textbf{$42\,\text{cm}$ à $75\,\text{cm}$}<\QCM3>
-<QCM4>\textbf{$2{,}78\,\text{m}$ à $3{,}41\,\text{m}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+\date{Dschang, le 25 octobre 2024}
 
-15-<QCM>
-<ENONCE>\textbf{Un avion de $2{,}7$ tonnes \\
-vole à $720\,\text{km/h}$ dans un \\
-virage de rayon $800\,\text{m}$. \\
-La force résultante est :}<\ENONCE>
-<REPONSE>1<\REPONSE>
-<QCM1>\textbf{$1{,}35\times10^5\,\text{N}$}<\QCM1>
-<QCM2>\textbf{$2{,}425\times10^5\,\text{N}$}<\QCM2>
-<QCM3>\textbf{$1{,}75\times10^6\,\text{N}$}<\QCM3>
-<QCM4>\textbf{$6{,}75\times10^6\,\text{N}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+\begin{document}
 
-16-<QCM>
-<ENONCE>\textbf{Une collision à \\
-$150\,\text{km/h}$ équivaut à une \\
-chute de hauteur :}<\ENONCE>
-<REPONSE>2<\REPONSE>
-<QCM1>\textbf{$18{,}6\,\text{m}$}<\QCM1>
-<QCM2>\textbf{$44{,}3\,\text{m}$}<\QCM2>
-<QCM3>\textbf{$68{,}6\,\text{m}$}<\QCM3>
-<QCM4>\textbf{$88{,}6\,\text{m}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+\begin{letter}{Aux responsables du projet de stage}
 
-17-<QCM>
-<ENONCE>\textbf{L’altitude d’une orbite \\
-géostationnaire est :}<\ENONCE>
-<REPONSE>3<\REPONSE>
-<QCM1>\textbf{$3{,}6\times10^3\,\text{m}$}<\QCM1>
-<QCM2>\textbf{$3{,}6\times10^5\,\text{m}$}<\QCM2>
-<QCM3>\textbf{$3{,}6\times10^7\,\text{m}$}<\QCM3>
-<QCM4>\textbf{$3{,}6\times10^9\,\text{m}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+\opening{Madame, Monsieur,}
 
-18-<QCM>
-<ENONCE>\textbf{L’énergie $W$ stockée \\
-par un condensateur de \\
-capacité $C$ sous tension $U$ \\
-est donnée par :}<\ENONCE>
-<REPONSE>2<\REPONSE>
-<QCM1>\textbf{$W = \frac{1}{2}CQ^2$}<\QCM1>
-<QCM2>\textbf{$W = \frac{1}{2}CU^2$}<\QCM2>
-<QCM3>\textbf{$W = \frac{1}{2}QU$}<\QCM3>
-<QCM4>\textbf{$W = \frac{1}{2}\frac{Q^2}{U}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+Je viens auprès de votre haute bienveillance soumettre ma candidature sur le sujet de stage portant sur «~Investigation sur les filières de fin de vie et de circularité des machines électriques~».
 
-19-<QCM>
-<ENONCE>\textbf{Un objet réel $A$ est à \\
-$20\,\text{cm}$ d’une lentille \\
-convergente de focale \\
-$10\,\text{cm}$. La distance $AA'$ \\
-entre l’objet et son image \\
-est :}<\ENONCE>
-<REPONSE>1<\REPONSE>
-<QCM1>\textbf{$0{,}4\,\text{m}$}<\QCM1>
-<QCM2>\textbf{$0{,}3\,\text{m}$}<\QCM2>
-<QCM3>\textbf{$0{,}6\,\text{m}$}<\QCM3>
-<QCM4>\textbf{$0{,}33\,\text{m}$}<\QCM4>
-<QCM5><\QCM5>
-<QCM6><\QCM6>
-<QCM7><\QCM7>
-<QCM8><\QCM8>
-<QCM9><\QCM9>
-<QCM10><\QCM10>
-<\QCM>
+En effet, je suis titulaire d’un diplôme de Master en physique option Électronique, Électrotechnique et Automatique (EEA) obtenu avec mention Bien à l’Université de Dschang. Passionné par les avancées technologiques, je suis vivement intéressé par le sujet de stage «~Investigation sur les filières de fin de vie et de circularité des machines électriques~», proposé par le Laboratoire Ampère.
+
+Au cours de mon parcours académique, j’ai eu l’opportunité de mener des études approfondies dans l’application des outils d’intelligence artificielle, et d’étudier les machines électriques. Ces expériences m’ont permis de développer des compétences dans l’analyse de données complexes, la modélisation statistique, la conception d’algorithmes de traitement de l’information et l’implémentation de ces algorithmes dans des microcontrôleurs. Je suis convaincu que ces compétences pourront être pleinement mises à profit pour résoudre les problématiques du projet de recherche proposé pour ce stage.
+
+En outre, mon parcours pluridisciplinaire m’a également doté de compétences en physique, en électronique, en électrotechnique, en automatique, en mathématiques et en programmation. Je maîtrise des outils de programmation pour la mise en œuvre des méthodes envisagées dans le projet, j’ai une bonne maîtrise du langage de programmation Python, une bonne expérience dans le développement des applications mobiles et aussi en électricité.
+
+Je suis particulièrement enthousiaste à l’idée de rejoindre une équipe de recherche dynamique et pluridisciplinaire, telle que celle impliquée dans ce projet. Travailler sur un sujet aussi innovateur et pertinent représente pour moi une occasion unique d’approfondir mes connaissances et de contribuer au développement des solutions innovantes dans le domaine du génie électrique.
+
+Je suis convaincu que mon profil, alliant compétences en programmation, en intelligence artificielle, en sciences physiques, en génie électrique et capacité de travailler en équipe, fait de moi un candidat indiqué pour ce projet.
+
+Dans l’espoir que vous porterez attention à ma candidature, je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer lors d’un entretien pour un échange approfondi.
+
+Dans l’espoir que vous saurez m’accorder une suite favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+\closing{Respectueusement,}
+
+\end{letter}
+
+\end{document}
