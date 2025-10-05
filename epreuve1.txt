@@ -1,39 +1,60 @@
-\documentclass[11pt,a4paper]{letter}
+\documentclass[11pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 \usepackage{geometry}
 \usepackage{lmodern}
-\usepackage{graphicx}
 \usepackage{setspace}
+\usepackage{parskip}
 \geometry{margin=2.5cm}
 \setlength{\parindent}{0pt}
 \renewcommand{\baselinestretch}{1.2}
 
-% Informations de l'expéditeur
-\signature{KUETE SONGMENE ARISTOPHANE}
-\address{KUETE SONGMENE ARISTOPHANE\\
-Téléphone : (+237) 6 XX XX XX XX\\
-Email : aristophane@example.com\\
-Dschang, le 25 octobre 2024}
-
 \begin{document}
 
-\begin{letter}{À l’attention des responsables du projet de stage\\
-[Nom de l’organisme ou de l’entreprise]\\
-[Adresse complète si connue]}
+% Adresse de l'expéditeur et date
+\begin{minipage}[t]{0.6\textwidth}
+KUETE SONGMENE ARISTOPHANE\\
+Téléphone : (+237) 6 XX XX XX XX\\
+Email : aristophane@example.com
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+Dschang, le 25 octobre 2024
+\end{minipage}
 
-\opening{Objet : Candidature pour un stage en génie électrique}
+\vspace{1cm}
 
-Titulaire d’un Master en Physique, option Électronique, Électrotechnique et Automatique (EEA), obtenu avec la mention Bien à l’Université de Dschang, je souhaite vivement intégrer votre programme de stage afin de mettre en pratique mes connaissances théoriques dans un cadre professionnel stimulant.
+% Adresse du destinataire
+À l’attention des responsables du projet de stage\\
+[Nom de l’organisme ou de l’équipe de recherche]\\
+[Adresse complète si connue]
 
-Durant mon parcours universitaire, j’ai acquis des compétences solides dans la conception, le fonctionnement et l’analyse des machines électriques. Mon intérêt pour les systèmes électrotechniques m’a conduit à approfondir mes connaissances en modélisation, simulation et diagnostic, tout en développant une rigueur scientifique et une capacité d’adaptation aux problématiques techniques.
+\vspace{1cm}
 
-Intégrer votre structure représente pour moi une opportunité précieuse d’enrichir mon expérience, de contribuer activement à vos projets, et de renforcer mes compétences dans un environnement collaboratif. Je suis motivé, curieux et prêt à m’investir pleinement dans les missions qui me seront confiées.
+% Objet
+\textbf{Objet : Candidature pour un stage en systèmes énergétiques et mobilité électrique}
+
+\vspace{0.5cm}
+
+Titulaire d’un Master en Physique, option Électronique, Électrotechnique et Automatique (EEA), obtenu avec la mention Bien à l’Université de Dschang, je souhaite vivement intégrer votre équipe de recherche afin de contribuer aux travaux portant sur les systèmes énergétiques et la mobilité électrique.
+
+\vspace{0.3cm}
+
+Au cours de mon parcours académique, j’ai développé un intérêt marqué pour les énergies renouvelables, les machines électriques et les systèmes embarqués. J’ai eu l’opportunité de participer à plusieurs projets universitaires, notamment sur la modélisation de moteurs synchrones et l’analyse de leur rendement. Ces expériences m’ont permis de renforcer mes compétences en simulation, en programmation Python et en traitement de données techniques.
+
+\vspace{0.3cm}
+
+Je suis convaincu que ce stage me permettra d’approfondir mes connaissances tout en apportant une contribution utile à vos travaux. Curieux, rigoureux et passionné par les problématiques énergétiques, je suis prêt à m’investir pleinement dans les missions qui me seront confiées.
+
+\vspace{0.3cm}
 
 Je me tiens à votre disposition pour tout complément d’information ou entretien que vous jugerez utile. En espérant que ma candidature retiendra votre attention, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
 
-\closing{Respectueusement,}
+\vspace{1cm}
 
-\end{letter}
+Respectueusement,\\
+\vspace{0.5cm}
+\textbf{KUETE SONGMENE ARISTOPHANE}
+
 \end{document}
