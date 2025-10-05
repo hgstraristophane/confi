@@ -3,12 +3,9 @@
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 \usepackage{geometry}
-\usepackage{lmodern}
-\usepackage{parskip}
-\usepackage{setspace}
 \geometry{margin=2.5cm}
+\usepackage{parskip}
 \setlength{\parindent}{0pt}
-\renewcommand{\baselinestretch}{1.2}
 
 \begin{document}
 
@@ -21,7 +18,7 @@ Email : exemple@domaine.com
 \end{minipage}
 \hfill
 \begin{minipage}[t]{0.35\textwidth}
-Ville, le \today
+Dschang, le 5 octobre 2025
 \end{minipage}
 
 \vspace{1cm}
