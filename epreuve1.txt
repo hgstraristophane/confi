@@ -12,14 +12,14 @@
 
 % Informations de l'expéditeur
 \signature{KUETE SONGMENE ARISTOPHANE}
-\address{KUETE SONGMENE ARISTOPHANE                      Dschang, le 25 octobre 2024\\
+\address{KUETE SONGMENE ARISTOPHANE\\
 Téléphone : (+237) 6 XX XX XX XX\\
 Email : aristophane@example.com\\
-}
+Dschang, le 25 octobre 2024}
 
 \begin{document}
 
-\begin{letter}{                     À l’attention des responsables du projet de stage\\
+\begin{letter}{À l’attention des responsables du projet de stage\\
 [Nom de l’organisme ou de l’entreprise]\\
 [Adresse complète si connue]}
 
