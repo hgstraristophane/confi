@@ -1,39 +1,63 @@
-\documentclass[11pt,a4paper]{letter}
+\documentclass[11pt,a4paper]{article}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[french]{babel}
 \usepackage{geometry}
 \usepackage{lmodern}
-\usepackage{graphicx}
+\usepackage{parskip}
 \usepackage{setspace}
 \geometry{margin=2.5cm}
 \setlength{\parindent}{0pt}
 \renewcommand{\baselinestretch}{1.2}
 
-% Informations de l'expéditeur
-\signature{KUETE SONGMENE ARISTOPHANE}
-\address{KUETE SONGMENE ARISTOPHANE\\
-Téléphone : (+237) 6 XX XX XX XX\\
-Email : aristophane@example.com\\
-Dschang, le 25 octobre 2024}
-
 \begin{document}
 
-\begin{letter}{À l’attention des responsables du projet de stage\\
+% Adresse de l'expéditeur et date
+\begin{minipage}[t]{0.6\textwidth}
+\textbf{Nom Prénom}\\
+Adresse complète\\
+Téléphone : +237 XX XX XX XX\\
+Email : exemple@domaine.com
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.35\textwidth}
+Ville, le \today
+\end{minipage}
+
+\vspace{1cm}
+
+% Adresse du destinataire
+À l’attention de [Titre ou fonction du destinataire]\\
 [Nom de l’organisme ou de l’entreprise]\\
-[Adresse complète si connue]}
+[Adresse complète]
 
-\opening{Objet : Candidature pour un stage en génie électrique}
+\vspace{1cm}
 
-Titulaire d’un Master en Physique, option Électronique, Électrotechnique et Automatique (EEA), obtenu avec la mention Bien à l’Université de Dschang, je souhaite vivement intégrer votre programme de stage afin de mettre en pratique mes connaissances théoriques dans un cadre professionnel stimulant.
+% Objet
+\textbf{Objet : [Titre de la demande, ex. Candidature pour un stage en génie électrique]}
 
-Durant mon parcours universitaire, j’ai acquis des compétences solides dans la conception, le fonctionnement et l’analyse des machines électriques. Mon intérêt pour les systèmes électrotechniques m’a conduit à approfondir mes connaissances en modélisation, simulation et diagnostic, tout en développant une rigueur scientifique et une capacité d’adaptation aux problématiques techniques.
+\vspace{0.5cm}
 
-Intégrer votre structure représente pour moi une opportunité précieuse d’enrichir mon expérience, de contribuer activement à vos projets, et de renforcer mes compétences dans un environnement collaboratif. Je suis motivé, curieux et prêt à m’investir pleinement dans les missions qui me seront confiées.
+Premier paragraphe : Présentez-vous brièvement (formation, spécialisation, contexte de la lettre).
 
-Je me tiens à votre disposition pour tout complément d’information ou entretien que vous jugerez utile. En espérant que ma candidature retiendra votre attention, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+\vspace{0.3cm}
 
-\closing{Respectueusement,}
+Deuxième paragraphe : Décrivez vos compétences, expériences ou projets pertinents. Mettez en avant ce qui vous rend apte à répondre aux besoins du destinataire.
 
-\end{letter}
+\vspace{0.3cm}
+
+Troisième paragraphe : Exprimez votre motivation, votre intérêt pour le poste ou le projet, et ce que vous espérez retirer de cette collaboration.
+
+\vspace{0.3cm}
+
+Dernier paragraphe : Formulez une demande d’entretien ou de retour, et concluez avec une formule de politesse.
+
+\vspace{1cm}
+
+Je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+\vspace{1cm}
+
+\textbf{Nom Prénom}
+
 \end{document}
