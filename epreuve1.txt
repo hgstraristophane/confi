@@ -5,36 +5,62 @@
 \usepackage{geometry}
 \geometry{margin=2.5cm}
 
-\signature{KUETE SONGMENE}
-\address{KUETE SONGMENE\\
-TEL: +237 654 41 61 07 / +237 652 84 16 18\\
-Email: kuetearistophane@gmail.com}
+%\signature{KUETE SONGMENE}
+%\address{KUETE SONGMENE\\
+%TEL: +237 654 41 61 07 / +237 652 84 16 18\\
+%Email: kuetearistophane@gmail.com}
 
-\date{Dschang, le 25 octobre 2024}
+%\date{Dschang, le 25 octobre 2024}
+
 
 \begin{document}
+	
+\pagestyle{empty}%supprime la numreotation
 
-\begin{letter}{Aux responsables du projet de stage}
 
-\opening{Madame, Monsieur,}
 
+\begin{letter}{}
+		\begin{tabular}{lcccccl}
+			%\hline
+			% after \\\\: \\hline or \\cline{col1-col2} \\cline{col3-col4} ...
+			{KUETE SONGMENE ARISTOPHANE } & { } &{  }  &{  }&{}&{ }&{\underline{Dschang, le 25 octobre 2024} } \\
+			{TEL:+237 65441107/+237 697425877 } & { }  &{ } &{  }&{}&{ }&{ }\\
+			{Email: kuetearistophane@gmail.com } & { }  &{ } &{  }&{}&{ }&{ }\\
+			{Adresse: Dschang|Cameroun } & { } &{  } &{  }&{}&{ }&{ }\\
+			{ } & { } &{  } &{ } &{  }&{}&{Aux responsables du projet de stage. }\\ \\
+		\end{tabular}
+
+%\opening{}
+\textbf{\underline{Objet}}:Demande de stage.\\ \\
+\begin{minipage}{18cm}
+	
+\qquad madame, Monsieur,\\
 Je viens auprès de votre haute bienveillance soumettre ma candidature sur le sujet de stage portant sur «~Investigation sur les filières de fin de vie et de circularité des machines électriques~».
 
-En effet, je suis titulaire d’un diplôme de Master en physique option Électronique, Électrotechnique et Automatique (EEA) obtenu avec mention Bien à l’Université de Dschang. Passionné par les avancées technologiques, je suis vivement intéressé par le sujet de stage «~Investigation sur les filières de fin de vie et de circularité des machines électriques~», proposé par le Laboratoire Ampère.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad En effet, je suis titulaire d’un diplôme de Master en physique option Électronique, Électrotechnique et Automatique (EEA) obtenu avec mention Bien à l’Université de Dschang. Passionné par les avancées technologiques, je suis vivement intéressé par le sujet de stage «~Investigation sur les filières de fin de vie et de circularité des machines électriques~», proposé par le Laboratoire Ampère.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad Au cours de mon parcours académique, j’ai eu l’opportunité de mener des études approfondies dans l’application des outils d’intelligence artificielle, et d’étudier les machines électriques. Ces expériences m’ont permis de développer des compétences dans l’analyse de données complexes, la modélisation statistique, la conception d’algorithmes de traitement de l’information et l’implémentation de ces algorithmes dans des microcontrôleurs. Je suis convaincu que ces compétences pourront être pleinement mises à profit pour résoudre les problématiques du projet de recherche proposé pour ce stage.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad En outre, mon parcours pluridisciplinaire m’a également doté de compétences en physique, en électronique, en électrotechnique, en automatique, en mathématiques et en programmation. Je maîtrise des outils de programmation pour la mise en œuvre des méthodes envisagées dans le projet, j’ai une bonne maîtrise du langage de programmation Python, une bonne expérience dans le développement des applications mobiles et aussi en électricité.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad Je suis particulièrement enthousiaste à l’idée de rejoindre une équipe de recherche dynamique et pluridisciplinaire, telle que celle impliquée dans ce projet. Travailler sur un sujet aussi innovateur et pertinent représente pour moi une occasion unique d’approfondir mes connaissances et de contribuer au développement des solutions innovantes dans le domaine du génie électrique.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad Je suis convaincu que mon profil, alliant compétences en programmation, en intelligence artificielle, en sciences physiques, en génie électrique et capacité de travailler en équipe, fait de moi un candidat indiqué pour ce projet.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad Dans l’espoir que vous porterez attention à ma candidature, je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer lors d’un entretien pour un échange approfondi.
+\end{minipage}
+\begin{minipage}{18cm}
+\qquad Dans l’espoir que vous saurez m’accorder une suite favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+\end{minipage}
 
-Au cours de mon parcours académique, j’ai eu l’opportunité de mener des études approfondies dans l’application des outils d’intelligence artificielle, et d’étudier les machines électriques. Ces expériences m’ont permis de développer des compétences dans l’analyse de données complexes, la modélisation statistique, la conception d’algorithmes de traitement de l’information et l’implémentation de ces algorithmes dans des microcontrôleurs. Je suis convaincu que ces compétences pourront être pleinement mises à profit pour résoudre les problématiques du projet de recherche proposé pour ce stage.
-
-En outre, mon parcours pluridisciplinaire m’a également doté de compétences en physique, en électronique, en électrotechnique, en automatique, en mathématiques et en programmation. Je maîtrise des outils de programmation pour la mise en œuvre des méthodes envisagées dans le projet, j’ai une bonne maîtrise du langage de programmation Python, une bonne expérience dans le développement des applications mobiles et aussi en électricité.
-
-Je suis particulièrement enthousiaste à l’idée de rejoindre une équipe de recherche dynamique et pluridisciplinaire, telle que celle impliquée dans ce projet. Travailler sur un sujet aussi innovateur et pertinent représente pour moi une occasion unique d’approfondir mes connaissances et de contribuer au développement des solutions innovantes dans le domaine du génie électrique.
-
-Je suis convaincu que mon profil, alliant compétences en programmation, en intelligence artificielle, en sciences physiques, en génie électrique et capacité de travailler en équipe, fait de moi un candidat indiqué pour ce projet.
-
-Dans l’espoir que vous porterez attention à ma candidature, je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer lors d’un entretien pour un échange approfondi.
-
-Dans l’espoir que vous saurez m’accorder une suite favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
-
-\closing{Respectueusement,}
+\closing{Respectueusement,\\KUETE SONGMENE}
 
 \end{letter}
 
