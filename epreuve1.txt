@@ -16,7 +16,7 @@
 		\begin{tabular}{lcccccl}
 			%\hline
 			% after \\\\: \\hline or \\cline{col1-col2} \\cline{col3-col4} ...
-			{KUETE SONGMENE ARSIPTOPHANE } & { } &{  }  &{  }&{}&{ }&{\underline{Dschang, le 12 octobre 2025} } \\
+			{KUETE SONGMENE ARISPTOPHANE } & { } &{  }  &{  }&{}&{ }&{\underline{Dschang, le 12 octobre 2025} } \\
 			{TEL:+237 65441107/+237 697425877 } & { }  &{ } &{  }&{}&{ }&{ }\\
 			{Email: kuetearistophane@gmail.com } & { }  &{ } &{  }&{}&{ }&{ }\\
 			{Adresse: Dschang|Cameroun} & { } &{  } &{  }&{}&{ }&{ }\\
