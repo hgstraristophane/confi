@@ -24,7 +24,7 @@
 \end{tabular}
 
 %\hspace{-0.55em} espace negatif%\opening{}
-\textbf{\underline{Objet}:}Demande de stage.\\ \\
+\textbf{\underline{Objet:} }Demande de stage.\\ \\
 \begin{minipage}{18cm}
 	
 \qquad madame, Monsieur,\\Je viens auprès de votre haute bienveillance soumettre ma candidature sur le sujet de stage portant sur «~Investigation sur les filières de fin de vie et de circularité des machines électriques~».
