@@ -17,7 +17,7 @@
 %\hline
 % after \\\\: \\hline or \\cline{col1-col2} \\cline{col3-col4} ...
 {\hspace{-0.55em}KUETE SONGMENE ARISTOPHANE } & { } &{  }  &{  }&{}&{ }&{\underline{Dschang, le 12 octobre 2025} } \\
-{\hspace{-0.55em}TEL:+237 65441107/+237 697425877 } & { }  &{ } &{  }&{}&{ }&{ }\\
+{\hspace{-0.55em}TEL:+237 654416107/+237 697425877 } & { }  &{ } &{  }&{}&{ }&{ }\\
 {\hspace{-0.55em}Email: kuetearistophane@gmail.com } & { }  &{ } &{  }&{}&{ }&{ }\\
 {\hspace{-0.55em}Adresse: Dschang|Cameroun} & { } &{  } &{  }&{}&{ }&{ }\\
 { } & { } &{  } &{ } &{  }&{}&{Aux responsables du projet de stage. }\\ \\
