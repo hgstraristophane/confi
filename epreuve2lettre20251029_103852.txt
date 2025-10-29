@@ -1,0 +1,109 @@
+\documentclass[12pt]{letter}
+\usepackage[top=1cm, bottom=0cm, left=2cm, right=2cm]{geometry} % Marges réduites haut/bas
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+
+
+\usepackage{multicol}
+\usepackage{lipsum} % Pour générer du texte d'exemple
+
+
+
+\begin{document}
+	
+\pagestyle{empty}%supprime la numreotation
+
+
+
+\begin{letter}{}
+
+\pagestyle{empty}%supprime la numreotation
+
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+KUETE SONGMENE ARISTOPHANE 2\\TEL:+237 654416107/+237 697425877\\Email: kuetearistophane@gmail.com\\Adresse: Dschang|Cameroun\\BP 139 Dschang \\
+\end{minipage}
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\underline{Dschang, le 12 octobre 2025}
+\end{minipage}
+
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+Aux responsables du projet de stage.\\BP 140 Mbouda 
+
+\end{minipage}
+
+%\opening{}
+\textbf{\underline{Objet}:}Demande de stage.\\ \\ 
+\begin{minipage}{18cm}
+	
+\qquad madame, Monsieur,
+
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je viens auprès de votre haute bienveillance soumettre ma candidature sur le sujet de stage portant sur «~Investigation sur les filières de fin de vie et de circularité des machines électriques~».
+
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad En effet, je suis titulaire d’un diplôme de Master en physique option Électronique, Électrotechnique et Automatique (EEA) obtenu avec mention Bien à l’Université de Dschang. Passionné par les avancées technologiques, je suis vivement intéressé par le sujet de stage «~Investigation sur les filières de fin de vie et de circularité des machines électriques~», proposé par le Laboratoire Ampère.
+        
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Au cours de mon parcours académique, j’ai eu l’opportunité de mener des études approfondies dans l’application des outils d’intelligence artificielle, et d’étudier les machines électriques. Ces expériences m’ont permis de développer des compétences dans l’analyse de données complexes, la modélisation statistique, la conception d’algorithmes de traitement de l’information et l’implémentation de ces algorithmes dans des microcontrôleurs. Je suis convaincu que ces compétences pourront être pleinement mises à profit pour résoudre les problématiques du projet de recherche proposé pour ce stage.
+        
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad En outre, mon parcours pluridisciplinaire m’a également doté de compétences en physique, en électronique, en électrotechnique, en automatique, en mathématiques et en programmation. Je maîtrise des outils de programmation pour la mise en œuvre des méthodes envisagées dans le projet, j’ai une bonne maîtrise du langage de programmation Python, une bonne expérience dans le développement des applications mobiles et aussi en électricité.
+        
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je suis particulièrement enthousiaste à l’idée de rejoindre une équipe de recherche dynamique et pluridisciplinaire, telle que celle impliquée dans ce projet. Travailler sur un sujet aussi innovateur et pertinent représente pour moi une occasion unique d’approfondir mes connaissances et de contribuer au développement des solutions innovantes dans le domaine du génie électrique.
+        
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je suis convaincu que mon profil, alliant compétences en programmation, en intelligence artificielle, en sciences physiques, en génie électrique et capacité de travailler en équipe, fait de moi un candidat indiqué pour ce projet.
+        
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Dans l’espoir que vous porterez attention à ma candidature, je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer lors d’un entretien pour un échange approfondi.
+        
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Dans l’espoir que vous saurez m’accorder une suite favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+        
+ \end{minipage}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+
+
+\end{minipage}\hfill %alignement horizontal
+\begin{minipage}[t]{0.20\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\closing{Respectueusement,\\ KUETE SONGMENE}
+
+\end{minipage}
+\end{letter}
+
+\end{document}
