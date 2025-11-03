@@ -1,0 +1,100 @@
+\documentclass[12pt]{letter}
+\usepackage[top=1cm, bottom=0cm, left=2cm, right=2cm]{geometry} % Marges réduites haut/bas
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+
+
+\usepackage{multicol}
+\usepackage{lipsum} % Pour générer du texte d'exemple
+
+
+
+\begin{document}
+	
+\pagestyle{empty}%supprime la numreotation
+
+
+
+\begin{letter}{}
+
+\pagestyle{empty}%supprime la numreotation
+
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+FOTSO NGUEMO BRYAN\\TEL:+237 698112233 / +237 675443322\\Email: bryan.fotso@gmail.com\\Adresse: Yaoundé | Cameroun\\
+\end{minipage}
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\underline{}
+\end{minipage}
+
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\textbf{Yaoundé, le 28 octobre 2025}\\A monsieur le directeur de l’établissement technique et industriel.
+
+\end{minipage}
+
+%\opening{}
+\textbf{\underline{Objet}:}Demande de stage de vacance.\\ \\ 
+\\\begin{minipage}{18cm}
+	
+\qquad Madame, Monsieur,  
+
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad \textcolor{white}{Madame, Monsieur,  
+}Actuellement élève en classe de Première scientifique au Lycée Technique de Nkolbisson, je viens très respectueusement solliciter un stage de vacance au sein de votre structure.
+\\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je suis titulaire du Probatoire série C obtenu en juillet 2025 avec mention Assez Bien. Passionné par les sciences appliquées et les technologies, je souhaite vivement intégrer votre établissement afin de découvrir le monde professionnel et renforcer mes compétences pratiques.
+\\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Ce stage représente pour moi une opportunité précieuse d’observer et de participer aux activités techniques en milieu réel, en complément de ma formation théorique. Je suis particulièrement intéressé par les domaines de l’électronique, de l’électricité et de la mécanique appliquée.
+\\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je suis motivé, ponctuel, curieux et disposé à apprendre auprès de vos équipes. Je suis convaincu que cette immersion me permettra de mieux orienter mes choix futurs et de développer un esprit professionnel.
+\\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer pour un éventuel entretien.
+\\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Dans l’attente d’une suite favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+\\
+ \end{minipage}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+
+
+\end{minipage}\hfill %alignement horizontal
+\begin{minipage}[t]{0.20\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\closing{Respectueusement,  \\FOTSO NGUEMO BRYAN}
+
+\end{minipage}
+\end{letter}
+
+\end{document}
