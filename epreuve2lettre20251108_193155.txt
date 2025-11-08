@@ -1,0 +1,109 @@
+\documentclass[12pt]{letter}
+\usepackage[top=1cm, bottom=0cm, left=2cm, right=2cm]{geometry} % Marges réduites haut/bas
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+
+
+\usepackage{multicol}
+\usepackage{lipsum} % Pour générer du texte d'exemple
+
+
+
+\begin{document}
+	
+\pagestyle{empty}%supprime la numreotation
+
+
+
+\begin{letter}{}
+
+\pagestyle{empty}%supprime la numreotation
+
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+KUETE SONGMENE ARISTOPHANE 2\\TEL:+237 654416107/+237 697425877\\Email: kuetearistophane@gmail.com\\Adresse: Dschang|Cameroun\\
+\end{minipage}
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\underline{}
+\end{minipage}
+
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\textbf{Dschang, le 8 novembre 2025}\\Aux responsables du stages.
+
+\end{minipage}
+
+%\opening{}
+\textbf{\underline{Objet}:}Demande de stage.\\ \\ 
+\begin{minipage}{18cm}
+	
+\qquad Messieurs, Mesdames, 
+
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je viens auprès de votre haute bienveillance soumettre ma candidature sur le sujet de stage portant sur «Développement d’une interface logicielle de contrôle autonome d’un drone sous marin avec panification (pré-opératoire) des trajectoires sur une carte suite à l’acquisition de mesures bathymétriques».
+   \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad En effet, je suis titulaire d’un diplôme de Master en physique option Électronique, Électrotechnique et Automatique (EEA) obtenu avec mention Bien à l’Université de Dschang. Passionné par les avancées technologiques, je suis vivement intéressé par ce projet de stage.
+        \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Au cours de mon parcours académique, j’ai eu l’opportunité de mener des études approfondies dans l’application des outils d’intelligence artificielle, et de traitement du signal. Ces expériences m’ont permis de développer des compétences dans l’analyse de données complexes, la modélisation statistique, la conception d’algorithmes de traitement de l’information et l’implémentation. En parallèle avec mes études et jusqu'à présent je développe des applications web et mobile donc j'en sous 4 sur play donc deux son en production. Je suis convaincu que ces compétences pourront être pleinement mises à profit pour résoudre les problématiques du projet de recherche proposé pour ce stage.
+        \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad En outre, mon parcours pluridisciplinaire m’a également doté de compétences en physique, en électronique, en électrotechnique, en automatique, en mathématiques et en programmation. Je maîtrise des outils de programmation pour la mise en œuvre des méthodes envisagées dans ce projet.
+        \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je suis particulièrement enthousiaste à l’idée de rejoindre une équipe de recherche dynamique et pluridisciplinaire, telle que celle impliquée dans ce projet. Travailler sur un sujet aussi innovateur et pertinent représente pour moi une occasion  d’approfondir mes connaissances et de contribuer au développement des solutions innovantes .
+        \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Je suis convaincu que mon profil, alliant compétences en programmation, en développement web et mobile, en traitement du signal, en intelligence artificielle, en sciences physiques, en génie électrique et capacité de travailler en équipe, fait de moi un candidat indiqué pour ce projet.
+        \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Dans l’espoir que vous porterez attention à ma candidature, je me tiens à votre disposition pour toute information complémentaire et je serais honoré de pouvoir vous rencontrer lors d’un entretien pour un échange approfondi.
+        \\
+ \end{minipage}
+\begin{minipage}{18cm}
+	
+\qquad Dans l’espoir que vous saurez m’accorder une suite favorable, je vous prie d’agréer, Messieurs, Mesdames, l’expression de mes salutations distinguées.
+        \\
+ \end{minipage}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+
+
+\end{minipage}\hfill %alignement horizontal
+\begin{minipage}[t]{0.20\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\closing{Respectueusement,\\ KUETE SONGMENE}
+
+\end{minipage}
+\end{letter}
+
+\end{document}
