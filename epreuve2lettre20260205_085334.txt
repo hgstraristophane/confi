@@ -1,0 +1,108 @@
+\documentclass[12pt]{letter}
+\usepackage[top=1cm, bottom=0cm, left=2cm, right=2cm]{geometry} % Marges réduites haut/bas
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+\usepackage{xcolor}
+
+\usepackage{multicol}
+\usepackage{lipsum} % Pour générer du texte d'exemple
+
+
+
+\begin{document}
+	
+\pagestyle{empty}%supprime la numreotation
+
+
+
+\begin{letter}{}
+
+\pagestyle{empty}%supprime la numreotation
+
+
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+NGUEFACK TCHAMO CÉDRIC\\Adresse: Bafoussam | Cameroun\\Email: cedric.nguefack@outlook.com\\TEL:+237 690123456 / +237 674987321\\
+\end{minipage}
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\underline{}
+\end{minipage}
+
+\hfill %alignement horizontal
+\begin{minipage}[t]{0.38\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\textbf{Bafoussam, le 28 octobre 2025}\\A monsieur le directeur du département de recherche appliquée.
+
+\end{minipage}
+
+%\opening{}
+\textbf{\underline{Objet}:}Demande d'emploi.\\ \\ 
+\begin{minipage}{18cm}
+
+\qquad Madame, Monsieur,  
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Je viens par la présente vous soumettre ma candidature pour un poste au sein de votre département, convaincu que mon profil correspond aux exigences de vos projets en cours.
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Je suis titulaire d’un Master en Informatique Industrielle obtenu à l’Université de Buea, avec une spécialisation en systèmes embarqués et automatisation. Mon parcours m’a permis d’acquérir une solide formation en programmation, en électronique et en traitement de données.
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Durant mes études et expériences professionnelles, j’ai développé des compétences dans l’analyse de systèmes complexes, la conception de solutions logicielles et l’intégration de capteurs intelligents. J’ai également travaillé sur des projets de maintenance prédictive et d’optimisation énergétique.
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Je maîtrise plusieurs langages de programmation, notamment Python, Java et C++, ainsi que des outils de simulation tels que MATLAB et LabVIEW. Mon expérience inclut également le développement d’applications mobiles et la gestion de bases de données.
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Je suis motivé par les défis techniques et l’innovation, et je souhaite mettre mes compétences au service d’une équipe dynamique et ambitieuse. Je suis convaincu que votre structure représente un cadre idéal pour évoluer et contribuer à des projets d’envergure.
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Rigoureux, autonome et doté d’un bon esprit d’équipe, je suis prêt à m’investir pleinement dans les missions qui me seront confiées. Je suis également ouvert à toute formation complémentaire nécessaire à une meilleure intégration.
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Je reste à votre disposition pour tout renseignement complémentaire et serais honoré de pouvoir échanger avec vous lors d’un entretien.
+
+ \end{minipage}
+\begin{minipage}{18cm}
+
+\qquad Dans l’attente d’une réponse favorable, je vous prie d’agréer, Madame, Monsieur, l’expression de mes salutations distinguées.
+
+ \end{minipage}
+\noindent
+\begin{minipage}[t]{0.48\textwidth}
+%\textbf{Bloc de gauche}\\
+%\lipsum[1] % Remplacez par votre propre texte
+
+
+\end{minipage}\hfill %alignement horizontal
+\begin{minipage}[t]{0.20\textwidth}
+%\textbf{Bloc de droite}\\
+%\lipsum[2] % Remplacez par votre propre texte
+\closing{Respectueusement,  \\NGUEFACK TCHAMO CÉDRIC}
+
+\end{minipage}
+\end{letter}
+
+\end{document}
