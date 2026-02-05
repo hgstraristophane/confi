@@ -1,0 +1,49 @@
+\documentclass[12pt]{letter}
+\usepackage[top=1cm, bottom=0cm, left=2cm, right=2cm]{geometry} % Marges réduites haut/bas
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[french]{babel}
+\usepackage{geometry}
+
+
+\usepackage{multicol}
+\usepackage{lipsum} % Pour générer du texte d'exemple
+
+
+\begin{document}
+	
+\pagestyle{empty}%supprime la numreotation
+
+
+
+\begin{letter}{}
+		
+		\pagestyle{empty}%supprime la numreotation
+		
+	
+
+\begin{minipage}{18cm}
+\centering{	
+\textbf{\LARGE{\underline{ISPAC}  }}
+\textbf{\\ }
+\textbf{\\ }\textbf{\LARGE{DEPARTEMENT DE GENIE ELECTRIQUE  }}
+\textbf{\\ }
+\textbf{\\ }\textbf{\LARGE{NIVEAU 2   }}
+\textbf{\\ }
+\textbf{\\ }\textbf{\LARGE{Asservissement   }}
+\textbf{\\ }
+\textbf{\\ }\textbf{\LARGE{Support de cours  }}
+\textbf{\\ }
+\textbf{\\ }\textbf{\LARGE{JANVIER 2026  }}
+\textbf{\\ }
+\textbf{\\ }\textbf{\LARGE{Maître KUETE  }}
+\textbf{\\ }
+\textbf{\\ }
+}
+\end{minipage}
+
+
+\end{letter}
+
+\end{document}
